@@ -1,0 +1,7 @@
+server:
+  port: 8080
+spring:
+  r2dbc:
+    url: mysql://192.168.0.128:3306/test?characterEncoding=utf-8
+    username: root
+    password: 123456
